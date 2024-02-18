@@ -45,7 +45,8 @@ Welcome to the Library Management System project! This Python-Tkinter applicatio
 
 1. Ensure you have Python installed.
 2. Open your terminal and run `pip install sqlite3` and `pip install tkinter`
-3. Explore the features and manage your book collection efficiently!
+3. Run the `Main.py` file
+4. Explore the features and manage your book collection efficiently!
 
 ## Contributing
 
